@@ -21,7 +21,7 @@
     "documentarian"
   ],
   "require": {
-    "php": ">=5.5.9",
+    "php": ">=5.5.9|^7.0|^8.0",
     "mnapoli/silly": "~1.0",
     "illuminate/view": "5.*|^6.0|^7.0|^8.0",
     "mnapoli/front-yaml": "^1.5",
